@@ -20,6 +20,11 @@ clean directory will be populated by the model
 sources:
 - https://towardsdatascience.com/predicting-the-fifa-world-cup-2022-with-a-simple-model-using-python-6b34bdd4f2a5
 - https://fse.studenttheses.ub.rug.nl/21917/1/bMATH_2020_BruinsmaR.pdf
-- https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022?select=international_matches.csv
 - https://www.pinnacle.com/en/betting-articles/Soccer/inflating-or-deflating-the-chance-of-a-draw-in-soccer/CGE2JP2SDKV3A9R5
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.poisson.html
+- https://www.scribbr.com/statistics/poisson-distribution/
+
+datasets: 
+- https://drive.google.com/drive/folders/11gHmEIZA5KM4C3xvrpcgl02SfeDjz6iJ (I honestly don't know how I found this)
+- https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022?select=international_matches.csv
 - https://github.com/ifrankandrade/fifa-world-cup-2022-prediction/blob/main/data/clean_fifa_worldcup_matches.csv
